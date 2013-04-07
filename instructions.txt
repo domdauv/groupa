@@ -1,0 +1,2 @@
+Install mysql server on Debian
+     sudo apt-get install mysql-server
